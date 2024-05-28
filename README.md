@@ -1,4 +1,4 @@
-# OBF-Project-Documentation
+*# OBF-Project-Documentation
 ## Project Outline 
 To apply statistical methods to uncover patterns, correlations, and relationships.
 
@@ -21,3 +21,9 @@ WHERE CONDITION = MET
 |Name|Gender|Occupation|
 |-----|-----|------|
 |Blessing|Female|Chemist|
+|Christiana|Female|Nurse|
+|Ogochukwu|Male|Accountant|
+
+*Blessing Oladokun*
+
+**Folakemi**
