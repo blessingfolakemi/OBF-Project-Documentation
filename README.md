@@ -11,10 +11,13 @@ The data source to be used is Public Datasets and these include websites like Ka
 - Python
 - SQL
 
-![804d97ca-39a3-46d6-bc25-6295f5ab7372](https://github.com/blessingfolakemi/OBF-Project-Documentation/assets/171019170/374f6940-177d-4fc7-8201-b1c9f4b2619d)
-
 ```
 Google query sheet
 SELECT* FROM TABLE 1
 WHERE CONDITION = MET
 ```
+![](804d97ca-39a3-46d6-bc25-6295f5ab7372.JPG)
+
+|Name|Gender|Occupation|
+|-----|-----|------|
+|Blessing|Female|Chemist|
